@@ -1,0 +1,1 @@
+S → ε | AB | XBT → AB | XBX → ATA → aB → b
