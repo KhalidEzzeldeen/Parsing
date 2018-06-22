@@ -1,0 +1,10 @@
+S
+S -> NP VP
+VP -> V NP
+VP -> V NP NP
+NP -> DET NP
+NP -> N
+NP -> N N
+DET -> 'the'
+N -> 'cat' | 'mouse' | 'chocolate' | 'Ron' | 'John'
+V -> 'ate' | 'saw' | 'bought'
